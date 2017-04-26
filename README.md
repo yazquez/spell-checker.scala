@@ -1,10 +1,6 @@
 # Sistema de Corrección y traducción
 
-Procesamiento del Lenguaje Natural para Ciencia del Dato (I)
 
-JOSE PEREZ YAZQUEZ
-
-21 de Julio de 2016
 
 # Introduccion
 
